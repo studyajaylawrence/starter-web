@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ajay Lawrence ajay.lawrence@gmail.com
 
 # THANKS
 
